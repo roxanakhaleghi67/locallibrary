@@ -57,4 +57,4 @@ templates, then cover the models and views with tests.
 
 ## License
 
-No license file is present yet. Until one is added, the default copyright applies.
+MIT — see [LICENSE](LICENSE). © Roxana Khaleghi
