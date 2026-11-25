@@ -1,5 +1,7 @@
 # LocalLibrary — Django practice project
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) ![Django](https://img.shields.io/badge/Django-5.0-092E20)
+
 A minimal Django 5 application scaffold for a local library catalogue, created as a
 learning project with `django-admin startproject`.
 
